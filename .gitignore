@@ -130,3 +130,4 @@ dmypy.json
 file_dir/movies_metadata.csv
 file_dir/wikipedia-movies.json
 file_dir/ratings.csv
+config.py
